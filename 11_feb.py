@@ -25,3 +25,22 @@ d = false
 print(c and d)
 print(c or d)
 print(not c)
+
+#Asignment Operators
+print("Assignment Operators")
+e = 10
+
+f = e
+print(f)
+
+e += 2
+print(e)
+
+e -= 2
+print(e)
+
+e /= 2
+print(e)
+
+e *= 5
+print(e)
